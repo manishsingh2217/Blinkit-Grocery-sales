@@ -1,6 +1,6 @@
 # 📊 Blinkit Sales Dashboard (Excel Project)
 
-![Dashboard Preview](Blinkit.png)
+![Dashboard Preview](Blinkit.png) 
 
 ## 📌 Project Overview
 This is my **second project in Sales Analysis**, built using **Advanced Microsoft Excel** as part of my **Data Science learning journey**.  
@@ -63,14 +63,14 @@ The goal was to fulfill a real-world business requirement by creating an **inter
 
 ## 📁 Files Included
 - `BlinkIT Grocery Data Excel.xlsx` – Main file with dashboard
-- `full blinkit.png` – Dashboard preview image
+- `Blinkit.png` – Dashboard preview image
 
 ---
 
 ## 📚 Author
 **Manish Singh**  
 Aspiring Data Scientist | Learning by Doing 🚀  
-🔗 [Connect with me on LinkedIn]https://www.linkedin.com/in/manishsingh22/*
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/manishsingh2217) 
 
 ---
 
