@@ -1,6 +1,6 @@
 # 📊 Blinkit Sales Dashboard (Excel Project)
 
-![Dashboard Preview](full%20blinkit.png)
+![Dashboard Preview](Blinkit.png)
 
 ## 📌 Project Overview
 This is my **second project in Sales Analysis**, built using **Advanced Microsoft Excel** as part of my **Data Science learning journey**.  
